@@ -5,15 +5,9 @@
   "display": "standalone",
   "background_color": "#0a0f2c",
   "theme_color": "#0a0f2c",
-  "orientation": "landscape",
   "icons": [
     {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
+      "src": "https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg3MWIwNDk5NGQ0ODE5MWIyZWVjZTg2OTI1NDQ4YTI6ZmlsZV8wMDAwMDAwMDk5MDQ2MWZkOWM2ZWEwMDEwMTQ3NzBjMSIsInRzIjoiNDg2OTMyIiwicCI6InB5aSIsInNpZyI6IjEwYzY5YTE1MTJhNTk5YTYxMWRjNmI0OWE4NjRjMGQyZmNkOGQ2NTE4YTA3NTAzMjQ1YjFkYWYxYWY5MWFmNDUiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==",
       "sizes": "512x512",
       "type": "image/png"
     }
